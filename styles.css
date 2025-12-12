@@ -119,6 +119,16 @@ body {
     opacity: 0.85;
     max-width: 400px;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.grupo-mmb-logo {
+    height: 32px;
+    width: auto;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
 /* Seção do Formulário (lado direito) */
